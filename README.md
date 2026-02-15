@@ -1,6 +1,7 @@
 # 3D Systemic Risk Contagion Engine
 
 A modular Streamlit application to model and visualize financial contagion across assets in 3D.
+<img width="2997" height="1464" alt="systematic" src="https://github.com/user-attachments/assets/1e8dde0c-9501-47c2-ae74-822d8bedbe7f" />
 
 ## Features
 - Load real or synthetic asset returns
@@ -23,3 +24,4 @@ Systemic risk is the risk of collapse of an entire financial system due to the f
 - `metrics.py`: Systemic risk metrics
 - `requirements.txt`: Dependencies
 - `README.md`: Project overview
+
